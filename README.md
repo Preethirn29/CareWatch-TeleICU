@@ -4,7 +4,7 @@ Information about the Innovative TeleICU Monitoring System is detailed in the at
 ## Problem Statement
 Innovative Monitoring System for TeleICU Patients Using Video Processing and Deep Learning
 ## Overview
-The **TeleICU Monitoring System** uses advanced video processing and deep learning to improve patient care in intensive care units (ICUs). This system helps doctors and nurses monitor patients remotely, ensuring safety and quick response to any issues. <br> More dataset would make the model more accurate.
+The **TeleICU Monitoring System** uses advanced video processing and deep learning to improve patient care in intensive care units (ICUs). This system helps doctors and nurses monitor patients remotely, ensuring safety and quick response to any issues. <br>More dataset would make the model more accurate, However I have implemented the most recent YOLO v10.
 ## Technologies Used
 -Python: Programming language used for scripting, data processing, and training models. <br>
 -YOLOv10 (You Only Look Once, Version 10): Object detection model to identify and localize multiple objects in images. It offers features such as real time performance, high accuracy, pre-trained weights for faster convergence, and flexibility for customization. <br>
